@@ -11,29 +11,18 @@ if(t.length==0) {
 }
 
 switch(t) {
-    case 'nome' :
-        res.innerHTML = `<h1>Nome jogador</h1> <ul> <br> <br> <br> <br> <li> Jogou no ... profissionalmente de </li>  <li> fez Gols pelo ... </li> <br> Titulos que ... ganhou jogando pelo ... :<br> <br> <li>  </li> <li> </li> <li>
-        </li> <li> 
-        </li> <li>  </li> <li>  </li>
-        <li>  </li>
-
-
-      </ul>
-        </ul>`
-        img.setAttribute('src', 'imagens/')
+    case 'Zico' :
+        res.innerHTML = `<h1>Zico</h1>  <br>  Jogou no Flamengo profissionalmente 1971 - 1983, 1985 - 1989 </li>  fez 509 Gols pelo Flamengo... <br> <br> Titulos que Zico ganhou jogando pelo Flamengo : 4 Brasileiros, 1 Mundial, 1 Libertadores, 7 Campeonatos Cariocas.      
+        `
+        img.setAttribute('src', 'imagens/jogadores/Zico.png')
         break;
-        case '' :
-            res.innerHTML = `<h1></h1> <ul> <br> <br> <br> <br> <li> Jogou no ... profissionalmente de </li>  <li> fez Gols pelo ... </li> <br> Titulos que ... ganhou jogando pelo ... :<br> <br> <li>  </li> <li> </li> <li>
-            </li> <li> 
-            </li> <li>  </li> <li>  </li>
-            <li>  </li> `
-            img.setAttribute('src', 'imagens/')
+        
+        case 'Junior' :
+            res.innerHTML = `<h1>Junior</h1> <br> Jogou no Flamengo profissionalmente de 1974 - 1984, 1989 - 1993. <br> <br> Fez 78 Gols Pelo Flamengo. <br> <br> Titulos que Junior Ganhou jogando pelo Flamengo: 4 Brasileiros, 1 Mundial, 1 Libertadores, 7 Campeonatos Cariocas. `
+            img.setAttribute('src', 'imagens/jogadores/junior.jpg')
             break;
             case '' :
-                res.innerHTML = `<h1>nome</h1> <ul> <br> <br> <br> <br> <li> Jogou no ... profissionalmente de </li>  <li> fez Gols pelo ... </li> <br> Titulos que ... ganhou jogando pelo ... :<br> <br> <li>  </li> <li> </li> <li>
-                </li> <li> 
-                </li> <li>  </li> <li>  </li>
-                <li>  </li>`
+                res.innerHTML = `<h1>nome</h1> Jogou no Flamengo profissionalmente de 1974 - 1984, 1989 - 1993.  `
                 img.setAttribute('src', 'imagens/')
                 break;
                 case '' :
