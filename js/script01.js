@@ -43,7 +43,7 @@ switch(t) {
                 break;
 
                         case 'Sávio' :
-                            res.innerHTML = `<h1>Sávio</h1> <br> <br> Jogou no Flamengo profissionalmente 1992 - 1997. <br> <br> Fez 95 gols pelo Flamengo. <br> <br> Titulos pelo flamengo : 1 Campeonato Brasileiro, 1 Carioca, 1 Copa ouro, 1 Copa do brasil.  `
+                            res.innerHTML = `<h1>Sávio</h1> <br> Jogou no Flamengo profissionalmente 1992 - 1997. <br> <br> Fez 95 gols pelo Flamengo. <br> <br> Titulos pelo flamengo : 1 Campeonato Brasileiro, 1 Carioca, 1 Copa ouro, 1 Copa do brasil.  `
                         img.setAttribute('src', 'imagens/jogadores/savio.jpg')
                         break;
 
@@ -63,12 +63,12 @@ switch(t) {
                                     break;
 
                                     case 'Gabigol' :
-                                    res.innerHTML = `<h1>Gabigol</h1> <br><br> Jogou no Flamengo profissionalmente 2019 - e continua jogando.. <br><br> fez mais de 130 Gols pelo Flamengo e deu mais de 35 assistências. <br><br> Titulos pelo Flamengo : 2 Brasileiros, 2 Libertadores, 3 Cariocas, 2 Supercopa do Brasil, 1 Copa do Brasil, 1 Recopa sul americana.  `
+                                    res.innerHTML = `<h1>Gabigol</h1> <br> Jogou no Flamengo profissionalmente 2019 - e continua jogando.. <br><br> fez mais de 130 Gols pelo Flamengo e deu mais de 35 assistências. <br><br> Titulos pelo Flamengo : 2 Brasileiros, 2 Libertadores, 3 Cariocas, 2 Supercopa do Brasil, 1 Copa do Brasil, 1 Recopa sul americana.  `
                                     img.setAttribute('src', 'imagens/jogadores/gabigol.webp')
                                     break;
 
                                     case 'Arrascaeta' :
-                                    res.innerHTML = `<h1>Giorgian De Arrascaeta</h1> <br> <br> Jogou no Flamengo profissionalmente 2019 - e continua jogando.. <br> <br> fez mais de 50 gols pelo Flamengo e deu mais de 60 assistências. <br> <br> Titulos pelo Flamengo : 2 Brasileiros, 2 Libertadores, 3 Cariocas, 2 Supercopa do Brasil, 1 Copa do Brasil, 1 Recopa sul americana.  `
+                                    res.innerHTML = `<h1>Giorgian De Arrascaeta</h1> <br> <br> Jogou no Flamengo profissionalmente 2019 - e continua jogando.. <br> <br> fez mais de 50 gols pelo Flamengo e deu mais de 60 assistências como meio campista. <br> <br> Titulos pelo Flamengo : 2 Brasileiros, 2 Libertadores, 3 Cariocas, 2 Supercopa do Brasil, 1 Copa do Brasil, 1 Recopa sul americana.  `
                                     img.setAttribute('src', 'imagens/jogadores/arrasca.webp')
                                     break;
 
