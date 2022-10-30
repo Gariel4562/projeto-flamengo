@@ -72,8 +72,8 @@ switch(t) {
                                     img.setAttribute('src', 'imagens/jogadores/arrasca.webp')
                                     break;
 
-                                      case '' :
-                                      res.innerHTML = `<h1>Nome</h1> `
+                                      case 'Everton Ribeiro' :
+                                      res.innerHTML = `<h1>Everton Ribeiro</h1> <br> Jogou no Flamengo profissionalmente 2017 - e continua jogando.. <br> <br> Fez mais de 40 gols pelo Flamengo e deu mais de 30 Assistências. <br> <br> Titulos pelo Flamengo : 2 Libertadores, 2 Brasileiros, 1 Copa do Brasil, 2 Supercopa do brasil, 1 Recopa sul americana, 3 Cariocas.  `
                                       img.setAttribute('src', 'imagens/')
                                       break;
                                     
