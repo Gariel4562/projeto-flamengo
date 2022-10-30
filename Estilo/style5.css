@@ -51,7 +51,7 @@ header p {
 
 
 main {
-    background-image:radial-gradient(transparent, red, transparent);
+    background-color: white;
     max-width:600px;
     margin:auto;
     padding:10px;
