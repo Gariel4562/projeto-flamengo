@@ -33,7 +33,7 @@ switch(t) {
            break;
         
         case 'Junior' :
-            res.innerHTML = `<h1>Junior</h1> <br> Jogou no Flamengo profissionalmente 1974 - 1984, 1989 - 1993. <br> <br> Fez 78 Gols Pelo Flamengo como Lateral. <br> <br> Titulos pelo Flamengo: 4 Brasileiros, 1 Mundial, 1 Libertadores, 7 Campeonatos Cariocas. `
+            res.innerHTML = `<h1>Junior</h1> <br> Jogou no Flamengo profissionalmente 1974 - 1984, 1989 - 1993. <br> <br> Fez 78 Gols Pelo Flamengo como Lateral. <br> <br> Titulos pelo Flamengo: 5 Brasileiros, 1 Copa do Brasil, 1 Mundial, 1 Libertadores, 6 Campeonatos Cariocas. `
             img.setAttribute('src', 'imagens/jogadores/junior.jpg')
             break;
 
