@@ -13,7 +13,7 @@ if(t.length==0) {
 switch(t) {
     case 'Leônidas da Silva' :
     res.innerHTML = `<h1>Leônidas da Silva</h1> <br> Jogou no Flamengo profissionalmente 1936 - 1941. <br> <br> Fez 153 Gols pelo Flamengo... <br> <br> Titulos pelo Flamengo : 1 Campeonato Carioca.  `
-        img.setAttribute('src', 'imagens/')
+        img.setAttribute('src', 'imagens/jogadores/leonidas.webp')
         break;
 
     case 'Zizinho' :
@@ -23,7 +23,7 @@ switch(t) {
 
         case 'Evaristo de Macedo' :
             res.innerHTML = `<h1>Evaristo de Macedo</h1> <br> Jogou no Flamengo profissionalmente 1953 - 1957, 1965 - 1967. <br> <br> Fez 103 Gols pelo Flamengo.. <br> <br> Titulos pelo Flamengo : 4 Cariocas. `
-            img.setAttribute('src', 'imagens/')
+            img.setAttribute('src', 'imagens/jogadores/evaristo.jpg')
             break;
 
         case 'Zico' :
@@ -73,8 +73,8 @@ switch(t) {
                                     break;
 
                                       case 'Everton Ribeiro' :
-                                      res.innerHTML = `<h1>Everton Ribeiro</h1> <br> Jogou no Flamengo profissionalmente 2017 - e continua jogando.. <br> <br> Fez mais de 40 gols pelo Flamengo e deu mais de 30 Assistências. <br> <br> Titulos pelo Flamengo : 2 Libertadores, 2 Brasileiros, 1 Copa do Brasil, 2 Supercopa do brasil, 1 Recopa sul americana, 3 Cariocas.  `
-                                      img.setAttribute('src', 'imagens/')
+                                      res.innerHTML = `<h1>Everton Ribeiro</h1> <br> Jogou no Flamengo profissionalmente 2017 - e continua jogando.. <br> <br> Fez mais de 40 gols pelo Flamengo e deu mais de 30 Assistências como meio campista. <br> <br> Titulos pelo Flamengo : 2 Libertadores, 2 Brasileiros, 1 Copa do Brasil, 2 Supercopa do brasil, 1 Recopa sul americana, 3 Cariocas.  `
+                                      img.setAttribute('src', 'imagens/jogadores/evertonR.jpg')
                                       break;
                                     
                         

@@ -61,7 +61,7 @@ header p {
 #diiv {
     max-width:600px;
     padding:25px;
-    background-image: linear-gradient(to right, red, transparent);
+    background-color: white;
     margin:auto;
     color:rgb(27, 27, 27);
     border-radius: 10px;
