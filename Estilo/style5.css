@@ -68,6 +68,13 @@ main {
 main h2 {
     font-family: var(--fonte-destaque);
     text-align: center;
+    margin-bottom:10px;
+
+}
+
+main h3 {
+  font-family: var(--fonte-destaque);
+  text-align: center;
 
 }
 

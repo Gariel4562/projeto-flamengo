@@ -26,8 +26,13 @@ switch(t) {
             img.setAttribute('src', 'imagens/jogadores/evaristo.jpg')
             break;
 
+        case 'Dida' :
+                res.innerHTML = `<h1>Dida</h1> <br> Jogou no Flamengo profissionalmente 1954 - 1963. <br> <br> Fez 264 Gols pelo Flamengo sendo o segundo maior artilheiro da história do Clube.. antes de Zico aparecer ele era considerado por muitos o maior na história do Flamengo. <br> <br> Titulos pelo Flamengo : 4 Cariocas e 1 Torneio Rio-sp. `
+                img.setAttribute('src', 'imagens/jogadores/didaaa.jpg')
+                break;
+
         case 'Zico' :
-           res.innerHTML = `<h1>Zico</h1>  <br>  Jogou no Flamengo profissionalmente 1971 - 1983, 1985 - 1989. <br> <br>  fez 509 Gols pelo Flamengo como meio campista... <br> <br> Titulos pelo Flamengo : 4 Brasileiros, 1 Mundial, 1 Libertadores, 7 Campeonatos Cariocas.      
+           res.innerHTML = `<h1>Zico</h1>  <br>  Jogou no Flamengo profissionalmente 1971 - 1983, 1985 - 1989. <br> <br>  fez 509 Gols pelo Flamengo como meio campista... Zico é simplesmente o maior/melhor jogador da história do Flamengo. <br> <br> Titulos pelo Flamengo : 4 Brasileiros, 1 Mundial, 1 Libertadores, 7 Campeonatos Cariocas.      
            `
            img.setAttribute('src', 'imagens/jogadores/Zico.png')
            break;
