@@ -10,21 +10,17 @@ function pesquisar () {
         window.alert('Digite o nome do jogador')
     }
     switch(t) {
-        case '' :
-          res.innerHTML = "<h1> Nome <br> <br> </h1> <ul>  <li> </li>  </ul> <br> "
-          img.setAttribute('src', 'imagens/')
+        case 'Torcida' :
+          res.innerHTML = "<h1> Maior torcida do Mundo </h1> <br/> <p>Flamengo Possui a maior torcida do Brasil, sendo bem mais de 40 Milhões de torcedores. </p> "
+          img.setAttribute('src', 'imagens/recordes/torcida.jpg')
           break;
-        case '' :
-            res.innerHTML = "<h1> Nome <br> <br> </h1> <ul> <li> </li> </ul> <br> " 
-            img.setAttribute('src', 'imagens/')
+        case 'Invicto' :
+            res.innerHTML = "<h1>52 Jogos Invicto</h1> <br> <p> Flamengo ficou de outubro de 1978 até maio de 1979 sem perder, Foram 52 jogos invictos contando jogos oficiais e amistosos mais uma bela marca para o Flamengo de Zico e cia. </p> " 
+            img.setAttribute('src', 'imagens/recordes/recorde.jpg')
             break;
-        case '' :
-            res.innerHTML = "<h1> Nome : <br> <br> </h1> <ul> <li> </li> </ul> <br> " 
-            img.setAttribute('src', 'imagens/')
-            break;
-        case '' :
-            res.innerHTML = "<h1>Nome : </h1> <br> <br> </h1> <ul> <li> </li> </ul> <br> "
-            img.setAttribute('src', 'imagens/')
+        case 'Multiesportivo' :
+            res.innerHTML = "<h1> Flamengo é um clube Multiesportivo </h1> <br> <p> Além do futebol o Clube de Regatas do Flamengo também se destaca em vários outros esportes como por exemplo no Basquete onde foi até mesmo Bicampeão do mundo, conquistou dois dos três titulos que o pais tem. vôlei feminino onde foi campeão sul americano em 1981, e também tem atletas Olimpicos vitoriosos como por exemplo... na Ginastica artistica: Rebeca Andrade e Jade Barbosa, Diego Hypólito e etc.. na natação César Cielo entre outros... </p> " 
+            img.setAttribute('src', 'imagens/recordes/esportes.jpg')
             break;
             
     
