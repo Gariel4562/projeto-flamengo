@@ -64,7 +64,7 @@ switch(t) {
 
                                     case 'Dejan Petković' :
                                     res.innerHTML = `<h1>Dejan Petković</h1> <br> Jogou no Flamengo profissionalmente 2000 - 2002, 2009 - 2011. <br> <br> fez 57 Gols pelo Flamengo como meio campista. <br> <br> Titulos pelo Flamengo : 1 Brasileiro, 2 Cariocas, 1 Copa dos campeões.`
-                                    img.setAttribute('src', 'imagens/jogadores/pet.webp')
+                                    img.setAttribute('src', 'imagens/jogadores/petkovic.jpg')
                                     break;
 
                                     case 'Gabigol' :
