@@ -11,23 +11,23 @@ function pesquisar () {
 
     switch(t) {
         case 'Mundial' :
-            res.innerHTML = `<br><h1>Mundial de Clubes</h1><br> Flamengo ganhou o Mundial de clubes em 1981 no Japão. <br>.`
+            res.innerHTML = `<br><h1>Mundial de Clubes</h1><br> Flamengo ganhou o Mundial de clubes em 1981 no Japão. <br><br>`
         img.setAttribute('src', 'imagens/titulos/mundial.jpg')
         break;
         case 'Libertadores' :
-            res.innerHTML = `<br><h1>Libertadores</h1><br> Flamengo é Tricampeão da Libertadores 1981 Montevidéu Uruguai, 2019 Lima no Peru, 2022 em Guaiaquil Equador. <br>.`
+            res.innerHTML = `<br><h1>Libertadores</h1><br> Flamengo é Tricampeão da Libertadores 1981 Montevidéu Uruguai, 2019 Lima no Peru, 2022 em Guaiaquil Equador. <br><br>`
         img.setAttribute('src', 'imagens/titulos/libertadores.jpg')
         break;
         case 'Brasileirão' :
-            res.innerHTML = `<br><h1>Brasileirão</h1><br> Flamengo é Octacampeão Brasileiro 1980, 1982, 1983, 1987, 1992, 2009, 2019, 2020. <br>.`
+            res.innerHTML = `<br><h1>Brasileirão</h1><br> Flamengo é Octacampeão Brasileiro 1980, 1982, 1983, 1987, 1992, 2009, 2019, 2020. <br><br>`
         img.setAttribute('src', 'imagens/titulos/brasileirão.jpg')
         break;
         case 'Copa do Brasil' :
-            res.innerHTML = `<br><h1>Copa do Brasil</h1><br> Flamengo é Tetracampeão da Copa do Brasil 1990, 2006, 2013, 2022. <br>.`
+            res.innerHTML = `<br><h1>Copa do Brasil</h1><br> Flamengo é Tetracampeão da Copa do Brasil 1990, 2006, 2013, 2022. <br><br>`
         img.setAttribute('src', 'imagens/titulos/Copa-do-Brasil.jpg')
         break;
         case 'Supercopa do Brasil' :
-            res.innerHTML = `<br><h1>Supercopa do Brasil</h1><br> Flamengo é Bicampeão da Supercopa do Brasil 2020, 2021. <br>.`
+            res.innerHTML = `<br><h1>Supercopa do Brasil</h1><br> Flamengo é Bicampeão da Supercopa do Brasil 2020, 2021. <br><br>`
         img.setAttribute('src', 'imagens/titulos/supercopa do brasil.jpg')
         break;
         case 'Recopa Sul Americana' :
