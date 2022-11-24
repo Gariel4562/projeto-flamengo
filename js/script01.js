@@ -73,7 +73,7 @@ switch(t) {
                                     break;
 
                                     case 'Arrascaeta' :
-                                    res.innerHTML = `<h1>Giorgian De Arrascaeta</h1> <br> <br> Jogou no Flamengo profissionalmente 2019 - e continua jogando.. <br> <br> fez mais de 50 gols pelo Flamengo e deu mais de 60 assistências como meio campista. <br> <br> Titulos pelo Flamengo : 2 Brasileiros, 2 Libertadores, 3 Cariocas, 2 Supercopa do Brasil, 1 Copa do Brasil, 1 Recopa sul americana.  `
+                                    res.innerHTML = `<h1>Giorgian De Arrascaeta</h1> <br> Jogou no Flamengo profissionalmente 2019 - e continua jogando.. <br> <br> fez mais de 50 gols pelo Flamengo e deu mais de 60 assistências como meio campista. <br> <br> Titulos pelo Flamengo : 2 Brasileiros, 2 Libertadores, 3 Cariocas, 2 Supercopa do Brasil, 1 Copa do Brasil, 1 Recopa sul americana.  `
                                     img.setAttribute('src', 'imagens/jogadores/arrasca.webp')
                                     break;
 
