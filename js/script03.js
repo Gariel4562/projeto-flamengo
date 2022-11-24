@@ -19,7 +19,7 @@ function pesquisar () {
             img.setAttribute('src', 'imagens/recordes/recorde.jpg')
             break;
         case 'Multiesportivo' :
-            res.innerHTML = "<h1>Multiesportivo</h1> <br> <p> Além do futebol o Clube de Regatas do Flamengo também se destaca em vários outros esportes como por exemplo no Basquete onde foi até mesmo Bicampeão do mundo, conquistou dois dos três titulos que o pais tem. vôlei feminino onde foi campeão sul americano em 1981, e também tem atletas Olimpicos vitoriosos como por exemplo... na Ginastica artistica: Rebeca Andrade e Jade Barbosa, Diego Hypólito e etc.. na natação César Cielo entre outros... </p> " 
+            res.innerHTML = "<h1>Esportivo</h1> <br> <p> Além do futebol o Clube de Regatas do Flamengo também se destaca em vários outros esportes como por exemplo no Basquete onde foi até mesmo Bicampeão do mundo, conquistou dois dos três titulos que o pais tem. vôlei feminino onde foi campeão sul americano em 1981, e também tem atletas Olimpicos vitoriosos como por exemplo... na Ginastica artistica: Rebeca Andrade e Jade Barbosa, Diego Hypólito e etc.. na natação César Cielo entre outros... </p> " 
             img.setAttribute('src', 'imagens/recordes/esportes.jpg')
             break;
             
