@@ -10,6 +10,10 @@ function pesquisar () {
         window.alert('Digite o nome do time')
     }
     switch(t) {
+        case 'Flamengo53-61' :
+            res.innerHTML = "<h1>Flamengo 53 - 61</h1> <br> <p> Uma Escalação de 55 : Pavão, Chamorro, Servilio, Tomires, Dequinha, Jordan, Joel, Duca, Indio, Dida, Zagallo. Nesse Periodo de tempo o Flamengo também teve jogadores como Evaristo. <p> </br> Conquistas nesse periodo : Tricampeão Carioca 1953, 1954, 1955. Campeão do Torneio rio-sp 1961. Campeão da taça dos Campeões Estaduais rio-sp 1955. </p>  " 
+            img.setAttribute('src', 'imagens/times/flamengo53-61.jpg')
+            break;
         case 'Flamengo78-83' :
           res.innerHTML = "<h1>Flamengo 78 - 83</h1> </br> <p> Time base 80 - 83 : Raul; Leandro, Marinho (Figueiredo), Mozer (Rondinelli) e Júnior; Andrade, Adílio e Zico; Tita, Nunes e Lico.</p> </br> <p> Conquistas nesse periodo : 1 Libertadores 1981. 1 Mundial 1981. 3 Campeonatos Brasileiros 1980, 1982, 1983. 4 Campeonatos Cariocas: 1978, 1979, 1979, 1981. </p> </br> <p> Recordes desse time: Ficou 52 Jogos invictos entre os anos de 1978 - 1979 o time dessa época era um pouco diferente. Triplice Coroa 1981 (3 Titulos Conquistados em um ano que se disputava poucos campeonatos.) </p>  "
           img.setAttribute('src', 'imagens/times/flamengo78-83.jpg')
