@@ -23,7 +23,7 @@ function pesquisar () {
             img.setAttribute('src', 'imagens/times/flamengo90-92.jpg')
             break;
             case 'Flamengo19-21' :
-                res.innerHTML = "<h1>Flamengo 19 - 21 </h1> <br> <p> Time : Diego Alves, Pablo Mari, Felipe Luis, Willian Arão, Rodrigo Caio, Gabriel Barbosa (Gabigol), Rafinha, Everton Ribeiro, De Arrascaeta, Gerson, Bruno Henrique. </p> </br> <p> Conquistas : 1 Libertadores 2019. 2 Brasileiros 2019, 2020. 1 Recopa sul americana 2020. 2 Supercopa do Brasil 2020, 2021. 3 Campeonatos Cariocas 2019, 2020, 2021. </p> </br> <p> Grande Feito: Ganhou um Brasileirão de 38 jogos Conquistando 90 pontos. (esse é o melhor aproveitamento da história do Campeonato.), Quádrupla Coroa 2020 (4 Titulos Oficiais conquistados no ano.), Triplice Coroa 2019 (3 Titulos Oficiais conquistados no ano.)  </p> " 
+                res.innerHTML = "<h1>Flamengo 19 - 21 </h1> <br> <p> Time : Diego Alves, Pablo Mari, Felipe Luis, Willian Arão, Rodrigo Caio, Gabriel Barbosa (Gabigol), Rafinha, Everton Ribeiro, De Arrascaeta, Gerson, Bruno Henrique. OBS: com o passar do tempo alguns jogadores foram saindo e outros chegando e o time foi mudando um pouco.  </p> </br> <p> Conquistas : 1 Libertadores 2019. 2 Brasileiros 2019, 2020. 1 Recopa sul americana 2020. 2 Supercopa do Brasil 2020, 2021. 3 Campeonatos Cariocas 2019, 2020, 2021. </p> </br> <p> Grande Feito: Ganhou um Brasileirão de 38 jogos Conquistando 90 pontos. (esse é o melhor aproveitamento da história do Campeonato.), Quádrupla Coroa 2020 (4 Titulos Oficiais conquistados no ano.), Triplice Coroa 2019 (3 Titulos Oficiais conquistados no ano.)  </p> " 
                 img.setAttribute('src', 'imagens/times/flamengo19-20.webp')
                 break;
             
