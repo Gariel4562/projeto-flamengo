@@ -7,7 +7,7 @@ function pesquisar () {
     img.setAttribute('id', 'foto')
     
     if(t.length==0) {
-        window.alert('Digite o nome do jogador')
+        window.alert('Coloque o nome do Recorde')
     }
     switch(t) {
         case 'Torcida' :
