@@ -15,7 +15,7 @@ function pesquisar () {
             img.setAttribute('src', 'imagens/times/flamengo53-61.jpg')
             break;
         case 'Flamengo78-83' :
-          res.innerHTML = "<h1>Flamengo 78 - 83</h1> </br> <p> Time base 80 - 83 : Raul; Leandro, Marinho (Figueiredo), Mozer (Rondinelli) e Júnior; Andrade, Adílio e Zico; Tita, Nunes e Lico.</p> </br> <p> Conquistas nesse periodo : 1 Libertadores 1981. 1 Mundial 1981. 3 Campeonatos Brasileiros 1980, 1982, 1983. 4 Campeonatos Cariocas: 1978, 1979, 1979, 1981. </p> </br> <p> Recordes desse time: Ficou 52 Jogos invictos entre os anos de 1978 - 1979 o time dessa época era um pouco diferente. Triplice Coroa 1981 (3 Titulos Conquistados em um ano que se disputava poucos campeonatos.) </p>  "
+          res.innerHTML = "<h1>Flamengo 78 - 83</h1> </br> <p> Time base 80 - 83 : Raul; Leandro, Marinho (Figueiredo), Mozer (Rondinelli) e Júnior; Andrade, Adílio e Zico; Tita, Nunes e Lico.</p> </br> <p> Conquistas nesse periodo : 1 Libertadores 1981. 1 Mundial 1981. 3 Campeonatos Brasileiros 1980, 1982, 1983. 4 Campeonatos Cariocas: 1978, 1979, 1979, 1981. </p> </br> <p> Grandes Feitos desse time: Ficou 52 Jogos invictos entre os anos de 1978 - 1979 o time dessa época era um pouco diferente. Triplice Coroa 1981 (3 Titulos Conquistados em um ano que se disputava poucos campeonatos.) </p>  "
           img.setAttribute('src', 'imagens/times/flamengo78-83.jpg')
           break;
         case 'Flamengo90-92' :
@@ -23,7 +23,7 @@ function pesquisar () {
             img.setAttribute('src', 'imagens/times/flamengo90-92.jpg')
             break;
             case 'Flamengo19-21' :
-                res.innerHTML = "<h1>Flamengo 19 - 21 </h1> <br> <p> Time : Diego Alves, Pablo Mari, Felipe Luis, Willian Arão, Rodrigo Caio, Gabriel Barbosa (Gabigol), Rafinha, Everton Ribeiro, De Arrascaeta, Gerson, Bruno Henrique. OBS: com o passar do tempo alguns jogadores foram saindo e outros chegando e o time foi mudando um pouco.  </p> </br> <p> Conquistas : 1 Libertadores 2019. 2 Brasileiros 2019, 2020. 1 Recopa sul americana 2020. 2 Supercopa do Brasil 2020, 2021. 3 Campeonatos Cariocas 2019, 2020, 2021. </p> </br> <p> Grande Feito: Ganhou um Brasileirão de 38 jogos Conquistando 90 pontos. (esse é o melhor aproveitamento da história do Campeonato.), Quádrupla Coroa 2020 (4 Titulos Oficiais conquistados no ano.), Triplice Coroa 2019 (3 Titulos Oficiais conquistados no ano.)  </p> " 
+                res.innerHTML = "<h1>Flamengo 19 - 21 </h1> <br> <p> Time : Diego Alves, Pablo Mari, Felipe Luis, Willian Arão, Rodrigo Caio, Gabriel Barbosa (Gabigol), Rafinha, Everton Ribeiro, De Arrascaeta, Gerson, Bruno Henrique. OBS: com o passar do tempo alguns jogadores foram saindo e outros chegando e o time foi mudando um pouco.  </p> </br> <p> Conquistas : 1 Libertadores 2019. 2 Brasileiros 2019, 2020. 1 Recopa sul americana 2020. 2 Supercopa do Brasil 2020, 2021. 3 Campeonatos Cariocas 2019, 2020, 2021. </p> </br> <p> Grandes Feitos: Ganhou um Brasileirão de 38 jogos Conquistando 90 pontos. (esse é o melhor aproveitamento da história do Campeonato.), Quádrupla Coroa 2020 (4 Titulos Oficiais conquistados no ano.), Triplice Coroa 2019 (3 Titulos Oficiais conquistados no ano.)  </p> " 
                 img.setAttribute('src', 'imagens/times/flamengo19-20.webp')
                 break;
             
