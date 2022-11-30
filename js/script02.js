@@ -11,7 +11,7 @@ function pesquisar () {
     }
     switch(t) {
         case 'Flamengo53-61' :
-            res.innerHTML = "<h1>Flamengo 53 - 61</h1> <br> <p> Uma Escalação de 55 : Pavão, Chamorro, Servilio, Tomires, Dequinha, Jordan, Joel, Duca, Indio, Dida, Zagallo. Nesse Periodo de tempo o Flamengo também teve jogadores como Evaristo. <p> </br> Conquistas nesse periodo : Tricampeão Carioca 1953, 1954, 1955. Campeão do Torneio rio-sp 1961. Campeão da taça dos Campeões Estaduais rio-sp 1955. </p>  " 
+            res.innerHTML = "<h1>Flamengo 53 - 61</h1> <br> <p> Alguns jogadores do elenco de 55 : Pavão, Chamorro, Servilio, Tomires, Dequinha, Jordan, Joel, Duca, Indio, Dida, Zagallo. Nesse Periodo de tempo o Flamengo também teve jogadores como Evaristo. <p> </br> Conquistas nesse periodo : Tricampeão Carioca 1953, 1954, 1955. Campeão do Torneio rio-sp 1961. Campeão da taça dos Campeões Estaduais rio-sp 1955. </p>  " 
             img.setAttribute('src', 'imagens/times/flamengo53-61.jpg')
             break;
         case 'Flamengo78-83' :
@@ -19,7 +19,7 @@ function pesquisar () {
           img.setAttribute('src', 'imagens/times/flamengo78-83.jpg')
           break;
         case 'Flamengo90-92' :
-            res.innerHTML = "<h1>Flamengo 90 - 92</h1> <br> <p>Escalação 90 - 92 : Gélson, Gilmar, Gottardo, Charles, Piá, Junior, Júlio César, Gaúcho, Zinho, Fabinho, Uidemar.<p> </br> Conquistas nesse periodo : 1 Campeonato Brasileiro 1992, 1 Copa do Brasil 1990, 1 Campeonato Carioca 1991. </p>  " 
+            res.innerHTML = "<h1>Flamengo 90 - 92</h1> <br> <p>Jogadores que estavam na final do brasileiro de 92 : Gélson, Gilmar, Gottardo, Charles, Piá, Junior, Júlio César, Gaúcho, Zinho, Fabinho, Uidemar.<p> </br> Conquistas nesse periodo : 1 Campeonato Brasileiro 1992, 1 Copa do Brasil 1990, 1 Campeonato Carioca 1991. </p>  " 
             img.setAttribute('src', 'imagens/times/flamengo90-92.jpg')
             break;
             case 'Flamengo19-21' :
